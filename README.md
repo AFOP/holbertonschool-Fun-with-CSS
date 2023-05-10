@@ -8,29 +8,34 @@ Enjoy!
 
 By using this HTML:
 
-```código
+```
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>HBTN - 0- Sprite</title>
 
-This webpage has been designed by Nicolas Philippot, UI/UX designer. You can find final screens [here](https://intranet-projects-files.s3.amazonaws.com/holbertonschool-webstack/622/Archive.zip)
+        <link href="0-styles.css" media="all" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <ul>
+            <li>HTML<span class="icon i-html"></span></li>
+            <li>CSS<span class="icon i-css"></span></li>
+            <li>JavaScript<span class="icon i-js"></span></li>
+        </ul>
+    </body>
+</html>
 
-## Requirements
-- you are not allowed to import external CSS framework (like Bootstrap)
-- you are not to use Javascript
+```
+And this image file: [0-sprite.png](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/2/d416199ca6ecdbd0f8a3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230510%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230510T001436Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=2fcbf99b55f5f7689ffe2f9bfac6929f3d20ddc1cb5931118e6390188cb5a4d9)
 
-Create an account in [Figma](https://intranet.hbtn.io/rltoken/y6_o1T-HtCyTAGuOJqdA_g) and open this [project](https://intranet.hbtn.io/rltoken/SpYRV14tPxTZJSjU2Eoh4A) and “Duplicate to your Drafts” to have access to all design details.
+Create 0-styles.css and generate this layout:
 
-If you can’t access to it, please find here the [Figma file](https://intranet.hbtn.io/rltoken/tWEPFyHyXyNO9Xfi2Er2EA)
+<img href="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/2/94aa60f76c412f40a87b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230510%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230510T001436Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=20717e9e66d79f12acec3078c33684af17cd75ed8ec4d3f20a0659721f13841e" alt="Así debe quedar el archivo">
 
-<img src="img/figma.jpg" alt="Para duplicar el proyecto y poder manipular el archivo">
+You are not allowed to change the image and the HTML - sprite is cool!
 
-## Important notes with Figma:
+Repo:
 
-if your computer doesn’t have missing fonts, you can find them here: [source-sans-pro](https://intranet.hbtn.io/rltoken/yvx4-XkjAQJgHlN6RAoKWQ) and [Spin-Cycle-OT](https://intranet.hbtn.io/rltoken/Jw0FKYKB6l5_2Koto0duTA)
-some values are in float - feel free to round them
-For this task, please write an amazing README.md
-
-## Interactions note:
-
-- the web page must switch to the mobile version when the screen width is 480px or less
-- links hover/active: #FF6565
-- button hover/active: opacity: 0.9
-- max width of the content: 1000px centered in the page
+- GitHub repository: holbertonschool-Fun-with-CSS
+- File: 0-styles.css
