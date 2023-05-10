@@ -31,7 +31,7 @@ And this image file: [0-sprite.png](https://s3.eu-west-3.amazonaws.com/hbtn.intr
 
 Create 0-styles.css and generate this layout:
 
-<img href="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/2/94aa60f76c412f40a87b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230510%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230510T001436Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=20717e9e66d79f12acec3078c33684af17cd75ed8ec4d3f20a0659721f13841e" alt="Así debe quedar el archivo">
+<img src="img/layout.png" alt="Así debe quedar el archivo">
 
 You are not allowed to change the image and the HTML - sprite is cool!
 
