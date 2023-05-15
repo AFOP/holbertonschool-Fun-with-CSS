@@ -65,7 +65,7 @@ By using this HTML:
 ```
 Create 1-styles.css and generate this layout where the underline is hidden by default and appeared slowly…:
 
-<img src="img/task_1.git" alt="Así debe quedar el archivo">
+<img src="img/task_1.gif" alt="Así debe quedar el archivo">
 
 You are not allowed to change the HTML
 
