@@ -1,5 +1,7 @@
 # Fun with CSS
 
+## 0. Sprite languages
+
 In this project, you will experiment and implement fun layout with HTML and CSS ONLY!
 
 Yes, no JavaScript!
@@ -39,3 +41,35 @@ Repo:
 
 - GitHub repository: holbertonschool-Fun-with-CSS
 - File: 0-styles.css
+
+## 1. Move the (under)line
+
+By using this HTML:
+
+```
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>HBTN - 1- Underline</title>
+
+        <link href="1-styles.css" media="all" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <h2>
+            Hello <a href="https://www.holbertonschool.com">Holberton!</a>
+        </h2>
+    </body>
+</html>
+
+```
+Create 1-styles.css and generate this layout where the underline is hidden by default and appeared slowly…:
+
+<img src="img/task_1.git" alt="Así debe quedar el archivo">
+
+You are not allowed to change the HTML
+
+Repo:
+
+- GitHub repository: holbertonschool-Fun-with-CSS
+- File: 1-styles.css
