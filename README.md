@@ -101,11 +101,11 @@ By using this HTML:
 ```
 Create 2-styles.css and generate this layout where the <input> is has this custom toggle layout:
 
-Checked:
+**Checked:**
 
 <img src="img/checked.png" alt="Así debe quedar el archivo">
 
-Unchecked:
+**Unchecked:**
 
 <img src="img/unchecked.png" alt="Así debe quedar el archivo">
 
